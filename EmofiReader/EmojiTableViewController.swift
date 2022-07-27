@@ -3,7 +3,7 @@
 //  EmofiReader
 //
 //  Created by Dasha Sharapova on 23/7/2022.
-//i hate niggers
+//i like niggers
 
 import UIKit
 
