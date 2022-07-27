@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  EmofiReader
 //
-//  Created by Dasha Sharapova on 23/7/2022.
+//  Created by Dasha Karnaukhova on 23/7/2022.
 //
 
 import UIKit
